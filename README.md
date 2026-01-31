@@ -5,7 +5,7 @@ Sorbonne University, France
 
 ## Research Interests
 - Reinforcement Learning
-- Generative Models (Diffusion Models)
+- Large Language Models and Generative Models (Diffusion Models)
 - Optimization and Theoretical Foundations of Machine Learning
 
 ## CV
